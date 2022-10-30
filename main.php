@@ -40,9 +40,7 @@
             <div class="knowledge">
                                    
                     <?php  include 'knowledge.inc.php'; ?>
-                    <?php   echo 'В России насчитывается ', $dogs_cat, ' ', 'млн кошек и собак. Из них ', $stray_dogs_cat, ' ', 'млн, или ', floor($percent_stray), '% ', '— бездомные.'; ?> <br>
-                                       
-                   <?php // $a = прошу прощения, что так мало использовал функций, мне катострофически не хватает времени?> 
+                    <?php   echo 'В России насчитывается ', $dogs_cat, ' ', 'млн кошек и собак. Из них ', $stray_dogs_cat, ' ', 'млн, или ', floor($percent_stray), '% ', '— бездомные.'; ?> <br> 
 
             </div>
 
